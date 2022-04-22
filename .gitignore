@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 config.py
+Vacation_Itinerary_starter_code.ipynb
+Vacation_Search_starter_code.ipynb
